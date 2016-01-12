@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TestAppstud</string>
+    <string name="contacts">Contacts</string>
+    <string name="favorites">Favoris</string>
+    <string name="loading">En cours de chargement</string>
+    <string name="error_ws">Erreur du webservice</string>
+    <string name="error_empty">Résultat vide</string>
+    <string name="add_contact">contact ajouté</string>
+    <string name="refresh">refresh</string>
+</resources>
